@@ -1,4 +1,4 @@
-###Glove Experimentation
+### Glove Experimentation
 
 Sample Python implementations of GloVe for future reference.
 
