@@ -1,0 +1,9 @@
+# ignore venv
+venv
+
+# ignore pre-trained word vectors
+data
+
+
+# ignore ipynb files
+.ipynb_checkpoints
